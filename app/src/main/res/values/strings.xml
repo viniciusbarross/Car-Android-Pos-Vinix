@@ -1,3 +1,26 @@
 <resources>
-    <string name="app_name">MyApiTest - COLOQUE O SEU NOME AQUI</string>
+    <string name="app_name">MyApiTest - Vinicius Barros</string>
+    <string name="google_client_id">392702880189-2nmut6c24sjh81rglnp9otukk36hmerd.apps.googleusercontent.com</string>
+    <string name="more_options_button">Mais opções</string>
+    <string name="logout_button">Logout</string>
+    <string name="no_records_found">Nenhum registro encontrado</string>
+    <string name="add_button">Adicionar</string>
+    <string name="car_year">Ano do Carro</string>
+    <string name="car_name">Nome do Carro</string>
+    <string name="license_plate">Placa do Carro</string>
+    <string name="location_permission_message">Precisamos da permissão de localização para mostrar sua posição no mapa.</string>
+    <string name="permission_denied_message">A permissão foi negada permanentemente. Por favor, habilite nas configurações do app.</string>
+    <string name="login_button">Faça login</string>
+    <string name="vehicle">Carro</string>
+    <string name="back_button">Voltar</string>
+    <string name="delete_vehicle">Deletar Carro</string>
+    <string name="save_button">Salvar</string>
+    <string name="phone_number_input">Número de Telefone</string>
+    <string name="send_otp_button">Enviar Código OTP</string>
+    <string name="otp_code_input">Digite o Código OTP</string>
+    <string name="invalid_otp_message">Código OTP inválido.</string>
+    <string name="otp_verified_successfully">Código verificado com sucesso!</string>
+    <string name="login_with_github">Login com GitHub</string>
+    <string name="login_with_google">Login com Google</string>
+    <string name="verify_code_button">Verificar Código</string>
 </resources>
